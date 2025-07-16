@@ -1,8 +1,6 @@
 ---
-layout: post
-title:  "Mi primer artículo"
-date:   2025-07-16 12:00:00 +0200
-categories: tutorial
+layout: default
+title:  "Inicio"
 ---
 
 ¡Hola mundo!
