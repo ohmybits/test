@@ -1,3 +1,11 @@
-title: Blog de Electrónica
+title: Blog sobre electrónica y sistemas embebidos
 description: Un blog sobre microcontroladores y programación embedded
 theme: minima
+# Theme
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+
+# Required to make minimal mistakes work on GitHub Pages
+markdown: kramdown
